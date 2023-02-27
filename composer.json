@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "graham-campbell/manager": "^4.7",
+        "graham-campbell/manager": "^5.0",
         "hashids/hashids": "^4.1",
         "illuminate/contracts": "^9.0",
         "illuminate/support": "^9.0"
